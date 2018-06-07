@@ -1,0 +1,5 @@
+Voltage
+V1 0 -1.5708
+R1 0 1.5708
+L1 0 0
+Current
