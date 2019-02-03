@@ -12,7 +12,8 @@ Given a netlist *display*(draw) an AC circuit and find current and voltage value
 2. Cd Ac_Circuit_Solver/Code
 3. make
 4. ./ac_circuit_solver
-Svg image will be produced on executing following commands which can be viewed in any modern browser.
+
+>Svg image will be produced on executing following commands which can be viewed in any modern browser.
 
 ## Assumption
 1. CURRENT,VOLTAGE START WITH V,I
