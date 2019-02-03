@@ -1,0 +1,2 @@
+(1) We were not able to do parsing by using flex and bison.
+(2) Due to time constraint we were not able to handle all cases,where source of diffrent frequency are present.
